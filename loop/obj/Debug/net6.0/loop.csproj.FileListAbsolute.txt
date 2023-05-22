@@ -1,0 +1,15 @@
+D:\c#\loop\loop\obj\Debug\net6.0\loop.csproj.AssemblyReference.cache
+D:\c#\loop\loop\obj\Debug\net6.0\loop.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\loop\loop\obj\Debug\net6.0\loop.AssemblyInfoInputs.cache
+D:\c#\loop\loop\obj\Debug\net6.0\loop.AssemblyInfo.cs
+D:\c#\loop\loop\obj\Debug\net6.0\loop.csproj.CoreCompileInputs.cache
+D:\c#\loop\loop\bin\Debug\net6.0\loop.exe
+D:\c#\loop\loop\bin\Debug\net6.0\loop.deps.json
+D:\c#\loop\loop\bin\Debug\net6.0\loop.runtimeconfig.json
+D:\c#\loop\loop\bin\Debug\net6.0\loop.dll
+D:\c#\loop\loop\bin\Debug\net6.0\loop.pdb
+D:\c#\loop\loop\obj\Debug\net6.0\loop.dll
+D:\c#\loop\loop\obj\Debug\net6.0\refint\loop.dll
+D:\c#\loop\loop\obj\Debug\net6.0\loop.pdb
+D:\c#\loop\loop\obj\Debug\net6.0\loop.genruntimeconfig.cache
+D:\c#\loop\loop\obj\Debug\net6.0\ref\loop.dll
