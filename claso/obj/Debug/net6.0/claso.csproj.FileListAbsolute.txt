@@ -1,0 +1,15 @@
+D:\c#\claso\claso\obj\Debug\net6.0\claso.csproj.AssemblyReference.cache
+D:\c#\claso\claso\obj\Debug\net6.0\claso.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\claso\claso\obj\Debug\net6.0\claso.AssemblyInfoInputs.cache
+D:\c#\claso\claso\obj\Debug\net6.0\claso.AssemblyInfo.cs
+D:\c#\claso\claso\obj\Debug\net6.0\claso.csproj.CoreCompileInputs.cache
+D:\c#\claso\claso\bin\Debug\net6.0\claso.exe
+D:\c#\claso\claso\bin\Debug\net6.0\claso.deps.json
+D:\c#\claso\claso\bin\Debug\net6.0\claso.runtimeconfig.json
+D:\c#\claso\claso\bin\Debug\net6.0\claso.dll
+D:\c#\claso\claso\bin\Debug\net6.0\claso.pdb
+D:\c#\claso\claso\obj\Debug\net6.0\claso.dll
+D:\c#\claso\claso\obj\Debug\net6.0\refint\claso.dll
+D:\c#\claso\claso\obj\Debug\net6.0\claso.pdb
+D:\c#\claso\claso\obj\Debug\net6.0\claso.genruntimeconfig.cache
+D:\c#\claso\claso\obj\Debug\net6.0\ref\claso.dll
