@@ -1,0 +1,15 @@
+D:\c#\lambada\lambada\bin\Debug\net6.0\lambada.exe
+D:\c#\lambada\lambada\bin\Debug\net6.0\lambada.deps.json
+D:\c#\lambada\lambada\bin\Debug\net6.0\lambada.runtimeconfig.json
+D:\c#\lambada\lambada\bin\Debug\net6.0\lambada.dll
+D:\c#\lambada\lambada\bin\Debug\net6.0\lambada.pdb
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.csproj.AssemblyReference.cache
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.AssemblyInfoInputs.cache
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.AssemblyInfo.cs
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.csproj.CoreCompileInputs.cache
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.dll
+D:\c#\lambada\lambada\obj\Debug\net6.0\refint\lambada.dll
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.pdb
+D:\c#\lambada\lambada\obj\Debug\net6.0\lambada.genruntimeconfig.cache
+D:\c#\lambada\lambada\obj\Debug\net6.0\ref\lambada.dll
