@@ -1,0 +1,15 @@
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.csproj.AssemblyReference.cache
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.AssemblyInfoInputs.cache
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.AssemblyInfo.cs
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.csproj.CoreCompileInputs.cache
+D:\c#\calso3\calso3\bin\Debug\net6.0\calso3.exe
+D:\c#\calso3\calso3\bin\Debug\net6.0\calso3.deps.json
+D:\c#\calso3\calso3\bin\Debug\net6.0\calso3.runtimeconfig.json
+D:\c#\calso3\calso3\bin\Debug\net6.0\calso3.dll
+D:\c#\calso3\calso3\bin\Debug\net6.0\calso3.pdb
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.dll
+D:\c#\calso3\calso3\obj\Debug\net6.0\refint\calso3.dll
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.pdb
+D:\c#\calso3\calso3\obj\Debug\net6.0\calso3.genruntimeconfig.cache
+D:\c#\calso3\calso3\obj\Debug\net6.0\ref\calso3.dll
